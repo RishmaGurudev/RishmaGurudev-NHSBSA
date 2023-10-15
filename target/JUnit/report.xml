@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="50.822" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="UK Test Ticket" name="UK Test Ticket" time="50.622">
+<system-out><![CDATA[
+Given I am a citizen of the UK..............................................passed
+When I put my circumstances into the Checker tool...........................passed
+Then I should get a result of whether I will get help or not................passed
+]]></system-out>
+</testcase>
+</testsuite>
