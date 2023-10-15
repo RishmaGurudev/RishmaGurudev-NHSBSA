@@ -45,11 +45,13 @@ To get started with test automation, you'll need a Java project or repository. I
 ### 1. Scenario 1: Test Case Automation Approach
 
 - Feature File present at : src/test/resources/Features/ManualAutomation.feature 
-- Run the Script : src/test/java/AutomationRecursive/TestManualAutomaionRunner.java
+- Run the Script : src/test/java/ManualAutomation/TestManualAutomaionRunner.java
+- Base Script : src/test/java/ManualAutomation/TestManualAutomation.java
 - Output: target/JUnit/TestManualAutomation.xml; also refer to console.
 
 ### 2. Scenario 2: Fully Automated Approach
-- Feature File present at : src/test/resources/Features/Demo.feature 
+- Feature File present at : src/test/resources/Features1/Demo.feature 
 - Run the Script : src/test/java/AutomationRecursive/TestRunner1.java
+- Base Script : src/test/java/AutomationRecursive/TestApplication1.java
 - Output: target/JUnit/report.xml; also refer to console.
 
